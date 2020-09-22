@@ -11,10 +11,7 @@ function generatePassword() {
         randomPassword += newPassword;
 
     }
-    prompt("Enter an UPPER case letter.")
-    prompt("Enter a lower case letter.")
-    prompt("Enter a number.")
-    prompt("Enter a special character. #$%&")
+
 
 
     return randomPassword
